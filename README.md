@@ -1,6 +1,7 @@
-Hello All, 
+## Data Visualization
 
-In this repository different types of visualization will be performed on data.
+Hello All, 
+In this repository different types of visualization will be performed on data using R and Python.
 
 
 ---------
