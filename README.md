@@ -17,7 +17,7 @@ A heatmap is a graphical representation of data where the individual values cont
 ### Chart 4: Connected scatterplot: 
 connected scatterplot is basically an hybrid between a scatterplot and a lineplot.
 
-### Chart #5: Background map :
+### Chart 5: Background map :
 It explains how to build static and interactive maps based on different input data, but does not explain how to plot data on it.
 ---------
 For upcoming updates [Follow me](https://github.com/vijaypurohit322/).
