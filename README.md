@@ -7,6 +7,7 @@ In this repository, different types of visualization will be performed on data u
 
 ### Chart 1: ridgeline plot: 
  - The ridgeline plot allows to study the distribution of a numeric variable for several groups.
+ - <img src="R/images/Ridgeline_Plot.png" width="720" title="Ridgeline Plot"/>
 
 ### Chart 2: Basic density chart: 
  - A density plot is a representation of the distribution of a numeric variable. It is a smoothed version of the histogram and is used in the same kind of situation. 
