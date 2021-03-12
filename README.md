@@ -15,6 +15,7 @@ In this repository, different types of visualization will be performed on data u
 
 ### Chart 3: Heat Map: 
  - A heatmap is a graphical representation of data where the individual values contained in a matrix are represented as colors.
+ - <img src="R/images/Heat_Map.png" width="720" title="Heat Map"/>
 
 ### Chart 4: Connected scatterplot: 
  - connected scatterplot is basically an hybrid between a scatterplot and a lineplot.
