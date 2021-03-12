@@ -11,6 +11,7 @@ In this repository, different types of visualization will be performed on data u
 
 ### Chart 2: Basic density chart: 
  - A density plot is a representation of the distribution of a numeric variable. It is a smoothed version of the histogram and is used in the same kind of situation. 
+ - <img src="R/images/Basic_density_chart.png" width="720" title="Basic density chart"/>
 
 ### Chart 3: Heat Map: 
  - A heatmap is a graphical representation of data where the individual values contained in a matrix are represented as colors.
