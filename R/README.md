@@ -23,5 +23,4 @@ In this repository, different types of visualization will be performed on data u
  - <img src="images/Background_map.png" width="720" title="Background map"/>
   
 -----------
-
 For upcoming updates [Follow me](https://github.com/vijaypurohit322/).
