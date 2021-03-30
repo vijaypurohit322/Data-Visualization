@@ -4,7 +4,6 @@ Hello All,
 In this repository, different types of visualization will be performed on data using R and Python.
 ## Using R
 
-
 ### Chart 1: ridgeline plot: 
  - The ridgeline plot allows to study the distribution of a numeric variable for several groups.
  - <img src="R/images/Ridgeline_Plot.png" width="360" title="Ridgeline Plot"/>
