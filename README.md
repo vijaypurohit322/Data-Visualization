@@ -1,5 +1,7 @@
 ## Data Visualization
 In this repository, different types of visualization will be performed on data using R and Python.
+-------------
+
 ## Using R
 
 ### Chart 1: ridgeline plot: 
