@@ -19,6 +19,7 @@ In this repository, different types of visualization will be performed on data u
  - connected scatterplot is basically an hybrid between a scatterplot and a lineplot.
  - <img src="R/images/Connected_scatterplot.png" width="360" title="Connected scatterplot"/>
 
+
 ### Chart 5: Background map:
  - It explains how to build static and interactive maps based on different input data, but does not explain how to plot data on it.
  - <img src="R/images/Background_map2.png" width="360" title="Background map"/> 
